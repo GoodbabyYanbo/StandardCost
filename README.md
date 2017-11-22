@@ -1,4 +1,3 @@
-# StandardCost
-the finance standard cost accounting code
-标准成本核算规则由财务部门提供；
-IT负责系统代码的实现；
+1,标准成本核算规则由财务部门提供；
+2,IT负责系统代码的实现；
+3,分配套厂成本查询报表；
